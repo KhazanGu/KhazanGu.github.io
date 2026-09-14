@@ -1,7 +1,7 @@
 # 发布到 GitHub Pages
 
-远程：`git@github.com:KhazanGu/khazan.github.io.git`  
-站点：https://khazangu.github.io/khazan.github.io/
+远程：`git@github.com:KhazanGu/KhazanGu.github.io.git`  
+站点：https://khazangu.github.io/
 
 推送到 `main` 后，GitHub Actions 会构建 Hugo 并发布。生产环境的 `baseURL` 由 Actions 自动写成上面的地址。
 
@@ -12,7 +12,7 @@
 克隆：
 
 ```bash
-git clone git@github.com:KhazanGu/khazan.github.io.git
+git clone git@github.com:KhazanGu/KhazanGu.github.io.git
 ```
 
 ## 以后

@@ -7,8 +7,8 @@ Hugo + [Pico Base](https://themes.gohugo.io/themes/pico-base/)（[Pico CSS](http
 需要 [Hugo Extended](https://gohugo.io/installation/) ≥ 0.116。
 
 ```bash
-git clone git@github.com:KhazanGu/khazan.github.io.git
-cd khazan.github.io
+git clone git@github.com:KhazanGu/KhazanGu.github.io.git
+cd KhazanGu.github.io
 hugo server
 ```
 
@@ -22,4 +22,4 @@ hugo new content posts/一篇笔记.md
 
 把 `draft = true` 改成 `false`。行内公式用 `\(...\)`，块级用 `$$`。
 
-改站点名：`config/_default/languages.zh.toml` 的 `title`。线上：https://khazangu.github.io/khazan.github.io/ ，见 [DEPLOY.md](DEPLOY.md)。
+改站点名：`config/_default/languages.zh.toml` 的 `title`。线上：https://khazangu.github.io/ ，见 [DEPLOY.md](DEPLOY.md)。
