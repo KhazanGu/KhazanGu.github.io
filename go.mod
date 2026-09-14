@@ -1,4 +1,4 @@
-module github.com/KhazanGu/blog
+module github.com/KhazanGu/khazan.github.io
 
 go 1.25.6
 
