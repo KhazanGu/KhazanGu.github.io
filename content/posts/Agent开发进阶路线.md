@@ -1,12 +1,12 @@
 +++
 date = 2026-09-14T23:31:00+08:00
 draft = false
-title = "Agent 开发进阶路线（新手 → 可启动受控试点）"
+title = "Agent 开发进阶路线"
 tags = ["Agent", "LLM", "工程实践"]
 categories = ["笔记"]
 ShowToc = true
 slug = "agent-dev-roadmap"
-summary = "面向零 Agent 经验、已有基础编程能力的学习者。目标是独立交付一个范围受控、可评估、可观测、可回滚的 Agent，并具备启动内部试点的能力。"
+summary = "零 Agent 经验、已有基础编程能力。独立交付一个范围受控、可评估、可观测、可回滚的 Agent，并具备启动内部试点的能力。"
 +++
 
 > 面向零 Agent 经验、已有基础编程能力的学习者。基准时间：2026 年 9 月。
